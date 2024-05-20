@@ -32,7 +32,7 @@ INSTALL_REQUIRES = [
 ]
 EXTRAS_REQUIRE = {
     'streaming': [
-        'numpy==1.19.4',
+        'numpy==1.26.4',
         'opencv-python==4.4.0.46',
         'Pillow==8.0.1',
     ],
